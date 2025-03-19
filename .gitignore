@@ -36,7 +36,6 @@
 
 # Reports und Notebooks (z. B. bei HTML oder PDF-Ausgabe)
 *.html
-*.pdf
 *.docx
 
 # Log-Dateien
