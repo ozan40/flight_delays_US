@@ -1,0 +1,62 @@
+# R History-Dateien
+.Rhistory
+.Rapp.history
+
+# R Data-Dateien
+.RData
+.Ruserdata
+
+# RStudio-Projektdateien (Benutzereinstellungen)
+.Rproj.user/
+
+# RStudio-Dateien
+*.Rproj
+
+# Cache- und temporäre Dateien
+.Rout
+.Rout.save
+*.Rcheck/
+*.Rcache/
+*.RDataTmp
+*.rdb
+*.rdx
+*.Rproj.user/
+*.Rhistory
+*.RData
+*.Ruserdata
+*.o
+*.so
+*.dll
+
+# R Markdown temporäre Dateien
+*_cache/
+*_files/
+*.utf8.md
+*.knit.md
+
+# Reports und Notebooks (z. B. bei HTML oder PDF-Ausgabe)
+*.html
+*.pdf
+*.docx
+
+# Log-Dateien
+*.log
+
+# Kompilierte Code-Dateien (z. B. für Rcpp-Projekte)
+*.dll
+*.so
+*.dylib
+*.exe
+
+# Backup-Dateien
+*~
+*.swp
+*.bak
+*.tmp
+
+# MacOS-Dateien
+.DS_Store
+
+# Windows Thumbs
+Thumbs.db
+ehthumbs.db
